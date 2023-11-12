@@ -8,13 +8,13 @@ Dive deep into the world of SQL with the Advanced SQL for Data Engineering cours
 
 ### Sections
 
-0. **Setting up the environment and overview of relational databases**
-1. **Manipulating databases: Mastering essential SQL statements**
-2. **Timing is everything: Managing and manipulating DateTime in SQL**
-3. **Complex data types: ENUMS, ARRAYS, Ranges, and Nested data in SQL**
-4. **Advanced query techniques: Exploring OVER, JOINS, CASE and more in SQL**
-5. **Optimizing data structures: The art and science of data normalization in SQL**
-6. **Performance and control: Mastering stored procedures, temporary tables**
+0. [**Setting up the environment and overview of relational databases**](./Section_0-Introductions/DQL vs. DDL vs. DML vs. DCL.md)
+1. [**Manipulating databases: Mastering essential SQL statements**](./Section_1)
+2. [**Timing is everything: Managing and manipulating DateTime in SQL**](./Section_2)
+3. [**Complex data types: ENUMS, ARRAYS, Ranges, and Nested data in SQL**](./Section_3)
+4. [**Advanced query techniques: Exploring OVER, JOINS, CASE and more in SQL**](./Section_4)
+5. [**Optimizing data structures: The art and science of data normalization in SQL**](./Section_5)
+6. [**Performance and control: Mastering stored procedures, temporary tables**](./Section_6)
 
 ### Repository Structure
 
