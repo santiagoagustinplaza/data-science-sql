@@ -8,7 +8,7 @@ Dive deep into the world of SQL with the Advanced SQL for Data Engineering cours
 
 ### Sections
 
-0. [**Setting up the environment and overview of relational databases**](./Section_0-Introductions/'DQL vs. DDL vs. DML vs. DCL.md')
+0. [**Setting up the environment and overview of relational databases**](./Section_0-Introductions/"DQL vs. DDL vs. DML vs. DCL.md")
 1. [**Manipulating databases: Mastering essential SQL statements**](./Section_1)
 2. [**Timing is everything: Managing and manipulating DateTime in SQL**](./Section_2)
 3. [**Complex data types: ENUMS, ARRAYS, Ranges, and Nested data in SQL**](./Section_3)
